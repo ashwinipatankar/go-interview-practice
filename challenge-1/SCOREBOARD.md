@@ -3,6 +3,7 @@
 |------------|--------------|-------------|
 | 0xJaskirat | 6 | 6 |
 | AliNazariii | 6 | 6 |
+| Ashutosh652 | 6 | 6 |
 | Gandook | 6 | 6 |
 | IBraveMonkey | 6 | 6 |
 | JunLog | 6 | 6 |
@@ -43,4 +44,5 @@
 | suminitgo | 6 | 6 |
 | sytayav | 6 | 6 |
 | timlkko | 6 | 6 |
+| tmsankaram | 6 | 6 |
 | y1hao | 6 | 6 |
