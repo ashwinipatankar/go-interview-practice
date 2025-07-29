@@ -1,6 +1,26 @@
 
 # Go Interview Practice
 
+<div align="center">
+
+[![GitHub Stars](https://img.shields.io/github/stars/RezaSi/go-interview-practice?style=for-the-badge&logo=github&color=yellow)](https://github.com/RezaSi/go-interview-practice/stargazers)
+[![Go Version](https://img.shields.io/badge/Go-1.19+-00ADD8?style=for-the-badge&logo=go)](https://golang.org/)
+[![Challenges](https://img.shields.io/badge/Challenges-30+-brightgreen?style=for-the-badge&logo=checkmarx)](https://github.com/RezaSi/go-interview-practice)
+
+<a href="https://trendshift.io/repositories/14255" target="_blank">
+<img src="https://trendshift.io/api/badge/repositories/14255" alt="RezaSi%2Fgo-interview-practice | Trendshift" style="width: 250px;" width="250"/>
+</a>
+
+<br/>
+
+⭐ **Your star helps us grow and stay motivated** ⭐
+<br/>
+
+<br/>
+</div>
+
+
+
 Welcome to the **Go Interview Practice** repository! Master Go programming and ace your technical interviews with our interactive coding challenges.
 
 ---
@@ -84,7 +104,7 @@ Our most accomplished Go developers, ranked by number of challenges completed:
 ### Challenge Progress Overview
 
 - **Total Challenges Available**: 30
-- **Active Developers**: 56
+- **Active Developers**: 57
 - **Most Challenges Solved**: 28 by odelbos
 
 <!-- END_CLASSIC_LEADERBOARD -->
@@ -307,6 +327,59 @@ We welcome contributions! You can contribute in several ways:
 4. Submit a pull request
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on both challenge types.
+
+## 💖 Support This Project
+
+Help keep Go education free and accessible! Your sponsorship enables me to create more challenges, maintain the platform, and support the community.
+
+### GitHub Sponsors
+
+**🥉 $5/month - Go Supporter**
+- Sponsor badge on your profile
+- Early access to new challenges (24 hours before public release)
+- Priority support and your name in contributors section
+
+**🚀 $25/month - Go Package Champion** 
+- All supporter benefits plus:
+- **Custom package tutorial creation** with 4-6 progressive challenges
+- **Ongoing maintenance** when your package updates
+- Your package featured prominently on the platform
+
+**💎 $200/month - Premium Business Sponsor**
+- All previous benefits plus:
+- **Company logo placement** on README, homepage, and challenge pages
+- Monthly social media mentions and priority partnership
+- Quarterly strategy calls and recruitment opportunities
+
+**☕ $10 - Buy Me a Coffee** *(One-time)*
+- Show appreciation for the free educational content
+- Support continued development with a simple coffee
+
+**💎 $100 - Package Challenge Creation** *(One-time)*
+- Complete learning path for your Go package (one-time creation, no ongoing updates)
+
+[**🎯 Become a Sponsor**](https://github.com/sponsors/RezaSi)
+
+*Your support helps maintain 30+ challenges, the web platform, and keeps everything free for the community!*
+
+---
+
+## 🏢 Premium Business Sponsors
+
+*Thank you to our premium sponsors who make this project possible!*
+
+<!-- 
+Premium sponsor logos will appear here when we have them. Format:
+<div align="center">
+<a href="https://company-website.com" target="_blank">
+<img src="https://company-logo-url.com/logo.png" alt="Company Name" height="60" style="margin: 0 20px;">
+</a>
+</div>
+-->
+
+*Interested in premium sponsorship? [Contact us](https://github.com/sponsors/RezaSi) to feature your company logo here and on our platform!*
+
+---
 
 ## License
 
