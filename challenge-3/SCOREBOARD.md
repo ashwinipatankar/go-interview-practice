@@ -15,6 +15,7 @@
 | YounesBouchbouk | 5 | 5 |
 | ZaharBorisenko | 5 | 5 |
 | ahmedpyarali2 | 5 | 5 |
+| aseifi880 | 5 | 5 |
 | ashwinipatankar | 5 | 5 |
 | igorek890 | 5 | 5 |
 | ilder | 5 | 5 |
@@ -23,6 +24,7 @@
 | jersonzc | 5 | 5 |
 | jordanhimawan | 5 | 5 |
 | krmaxwell | 5 | 5 |
+| kuzminprog | 5 | 5 |
 | lajosbnk | 5 | 5 |
 | lanmanul | 5 | 5 |
 | mayconvm | 5 | 5 |
